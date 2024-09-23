@@ -1,0 +1,15 @@
+../Core/Src/i2c_dev.c:13:6:MPU6050_init	40	static
+../Core/Src/i2c_dev.c:55:6:MPU6050_calibrate	32	static
+../Core/Src/i2c_dev.c:75:6:MPU6050_getGyroValues	40	static
+../Core/Src/i2c_dev.c:92:6:MPU6050_getGyroRates	32	static
+../Core/Src/i2c_dev.c:101:6:MPU6050_getAccelValues	40	static
+../Core/Src/i2c_dev.c:114:6:MPU6050_getAccelAngles	56	static
+../Core/Src/i2c_dev.c:135:6:MPU6050_getAnglesKalman	48	static
+../Core/Src/i2c_dev.c:159:9:BMP180_ReadReg	32	static
+../Core/Src/i2c_dev.c:166:6:BMP180_WriteReg	32	static
+../Core/Src/i2c_dev.c:180:6:BMP180_initCalibrate	24	static
+../Core/Src/i2c_dev.c:203:9:BMP180_GetRawTemperature	32	static
+../Core/Src/i2c_dev.c:214:7:BMP180_GetTemperature	16	static
+../Core/Src/i2c_dev.c:220:9:BMP180_GetUT	16	static
+../Core/Src/i2c_dev.c:224:9:BMP180_GetUP	16	static
+../Core/Src/i2c_dev.c:231:9:BMP180_GetPressure	56	static

@@ -1,0 +1,4 @@
+../Core/Src/mech.c:13:6:norm_motors	4
+../Core/Src/mech.c:20:6:write_motors	1
+../Core/Src/mech.c:31:6:calculatePID_xy	5
+../Core/Src/mech.c:49:6:calculatePID_z	3
